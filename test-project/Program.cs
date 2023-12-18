@@ -10,7 +10,6 @@ namespace test_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Line Added");
             Console.WriteLine("Welcome to C#");
         }
     }
