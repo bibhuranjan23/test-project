@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace test_project
 {
-    internal class Program
+    internal class Employee
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Welcome to C#");
-        }
     }
 }
